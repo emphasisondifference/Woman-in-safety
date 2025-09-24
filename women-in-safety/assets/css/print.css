@@ -1,0 +1,2 @@
+@page { margin: 1in; }
+a::after { content: " (" attr(href) ")"; font-size: 90%; }

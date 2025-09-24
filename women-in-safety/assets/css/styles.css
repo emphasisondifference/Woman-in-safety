@@ -1,0 +1,24 @@
+/* Variables */
+:root{
+  --deep-teal:#00696B;
+  --coral-pink:#FF6B6B;
+  --coral-dark:#C0392B;
+  --dark-grey:#333333;
+  --mid-grey:#666;
+  --light-grey:#F5F5F5;
+  --white:#FFFFFF;
+  --header-font:'Montserrat',sans-serif;
+  --body-font:'Open Sans',sans-serif;
+}
+
+/* Reset + base */
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  font-family:var(--body-font);
+  color:var(--dark-grey);
+  line-height:1.6;
+  background:#fff;
+}
+/* ... trimmed: full CSS content inserted by script ... */
